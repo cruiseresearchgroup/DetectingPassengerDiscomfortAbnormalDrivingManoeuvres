@@ -8,7 +8,7 @@ Abnormal driving manoeuvres such as sudden braking, harsh acceleration or swervi
 This repository contains resources developed within the following paper:
   Liono, J., Dau, H. A., Salim, F. D., Song, A., Alhajyaseen, W. K. M., Bradbrook, D., Bouguettaya, A. 2016. Detecting passenger discomfort from abnormal driving manoeuvres. In 23rd ITS World Congress, Melbourne, Australia. 
   
-You can find the [paper](link_to_your_github_pdf_resource_file.pdf) and [presentation](link_to_your_github_pdf_resource_file.pdf) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/DetectingPassengerDiscomfortAbnormalDrivingManoeuvres/blob/master/paper/ITS16_paper_AN-SP0728.pdf) and [presentation](https://github.com/cruiseresearchgroup/DetectingPassengerDiscomfortAbnormalDrivingManoeuvres/blob/master/presentation/ITS%20world%20congress%202016.pdf) in this repository. 
 
 ## Contents of the repository
 This repository contains resources used and described in the paper.
@@ -22,7 +22,7 @@ The repository is structured as follows:
 ## Citation
 If you use the resources (code and dataset) presented in this repository, please cite (using the following BibTeX entry):
 ```
-@inproceedings{lastnameYearTitle,
+@inproceedings{liono2016detecting,
   title={Detecting passenger discomfort from abnormal driving manoeuvres},
   author={Liono, Jonathan and Dau, Hoang Anh and Salim, Flora D. and Song, Andy and Alhajyaseen, Wael K. M. and Bradbrook, Doug and Bouguettaya, Athman},
   booktitle={23rd ITS World Congress, Melbourne, Australia},
