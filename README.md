@@ -25,7 +25,8 @@ If you use the resources (code and dataset) presented in this repository, please
 @inproceedings{liono2016detecting,
   title={Detecting passenger discomfort from abnormal driving manoeuvres},
   author={Liono, Jonathan and Dau, Hoang Anh and Salim, Flora D. and Song, Andy and Alhajyaseen, Wael K. M. and Bradbrook, Doug and Bouguettaya, Athman},
-  booktitle={23rd ITS World Congress, Melbourne, Australia},
+  booktitle={23rd ITS World Congress},
+  location = {Melbourne, Australia},
   year={2016}
 }
 ```
